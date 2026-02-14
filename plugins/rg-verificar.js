@@ -8,7 +8,7 @@ let handler = async function (m, { conn, text }) {
   let name2 = conn.getName(m.sender)
 
   // --- Validación y Errores ---
-  if (user.registered === true) throw `*⚔️ ¡Ya eres un Pirata!* Para empezar de nuevo, usa: *#unreg*`
+  if (user.registered === true) throw `*⚔️ ¡Ya eres un combatiente mas sempai!* Para empezar de nuevo, usa: *#unreg*`
   if (!Reg.test(text)) throw `*🏴‍☠️ ¡Error de formato!* Necesitas un Nombre y Edad.\n\nUsa: *#reg Nombre.edad*\n\nEjemplo:\n#reg ${name2}.18`
 
   let [_, name, splitter, age] = text.match(Reg)
@@ -55,7 +55,7 @@ let handler = async function (m, { conn, text }) {
 *• ${REWARD_EXP} Exp 🪙*
 *• ${REWARD_TOKENS} Tokens 💰*
 
-👑 _*Monkey D Luffy*_ 👑
+👑 _*MITSURY BOT*_ 👑
      *IA ⌚ ${time}*
 `
 
