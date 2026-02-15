@@ -21,7 +21,7 @@ if (/video/.test(mime) && (q.msg || q).seconds > 16)
 return conn.reply(m.chat, '⚓️ ¡Oi! El video no puede durar más de *15 segundos*. ¡Necesitas rapidez para este viaje! 💨', m, global.rcanal)
 let buffer = await q.download()
 // Reacción de "haciendo algo" (el Sombrero de Paja)
-await m.react('👒') 
+await m.react('🍁') 
 
 let marca = txt ? txt.split(/[\u2022|]/).map(part => part.trim()) : [texto1, texto2]
 stiker = await sticker(buffer, false, marca[0], marca[1])
@@ -33,7 +33,7 @@ stiker = buffer
 return conn.reply(m.chat, '🗺️ ¡Necesito algo de carne! Digo... una *imagen* o *video*. ¡Envíalo o respóndelo para crear tu Jolly Roger (sticker)! 🏴‍☠️', m, global.rcanal)
 }} catch (e) {
 // Mensaje ajustado
-await conn.reply(m.chat, '💥 ¡Gomu Gomu no! Algo explotó. Ocurrió un error en la aventura pirata: ' + e.message + ' ⚔️', m, global.rcanal)
+await conn.reply(m.chat, '💥 !𝚜𝚎𝚖𝚙𝚊𝚒𝚒 no! Algo explotó. Ocurrió un error en la aventura pirata: ' + e.message + ' ⚔️', m, global.rcanal)
 // Reacción de "error"
 await m.react('😵‍💫') 
 } finally {
