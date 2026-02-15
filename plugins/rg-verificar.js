@@ -66,10 +66,10 @@ let handler = async function (m, { conn, text }) {
     text: regbot,
     contextInfo: {
       externalAdReply: {
-        title: 'Monkey D Luffy Bot',
-        body: 'Registro exitoso por Monkey D Luffy',
+        title: 'Mitsury OFC',
+        body: 'Registro exitoso por MITSURY',
         thumbnailUrl: imagenRegistroLuffy, 
-        sourceUrl: 'https://github.com/nene504273/Monkey-D-luffy-Bot-MD',
+        sourceUrl: 'https://github.com/nene504273/Mon-D-luffy-Bot-MD',
         mediaType: 1,
         renderLargerThumbnail: true
       }
