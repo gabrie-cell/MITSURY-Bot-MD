@@ -40,7 +40,7 @@ global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.nameqr = 'monkey-D-luffy-MD'
-global.namebot = '꧂ ＭＩＴＳＵＲＹ-ＭＤ꧂'
+global.namebot = '🍁 ＭＩＴＳＵＲＹ-ＭＤ🎋'
 global.LuffySessions = 'LuffySessions'
 global.jadi = 'LuffyJadiBots' 
 global.LuffyJadibts = true
@@ -60,8 +60,8 @@ global.etiqueta = 'ˑ 𓈒 𐔌 𝗴𝗮𝗯𝘅𝘇❀᭄☂️ ͡꒱ ۫' // Et
 global.moneda = 'Berris 💰'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1747289219876.jpeg'
-global.avatar = 'https://qu.ax/RYjEw.jpeg'
+global.banner = 'https://files.catbox.moe/4nqbz6.png'
+global.avatar = 'https://files.catbox.moe/l62rt5.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -78,7 +78,7 @@ global.cn ='https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P';
 // global.catalogo = fs.readFileSync('./src/catalogo.jpg');
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363335626706839@newsletter',
+ch1: '120363424677971125@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
