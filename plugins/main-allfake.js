@@ -52,8 +52,8 @@ global.fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "sta
 global.creador = 'Wa.me/04244144821'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/04244144821'
-global.namechannel = '🌼𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐂𝐇𝐀𝐍𝐍𝐄𝐋'
-global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: 🍁𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐂𝐇𝐀𝐍𝐍𝐄𝐋🍁'
+global.namechannel = '🌼MITSURY-CHANNEL🎍'
+global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: 🍁MITSURY🍁'
 global.namegrupo = '࿐ 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐌𝐃 ⟦ 𝘽𝙤𝙩 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 ⟧🏴‍🎍'
 global.namecomu = '⚡ᴍᴏɴᴋᴇʏ.ᴅ.ʟᴜꜰꜰʏ⚡'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
@@ -61,7 +61,7 @@ global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => '
 
 //Ids channel
 global.canalIdM = ["120363424677971125@newsletter", "120363424677971125@newsletter"]
-global.canalNombreM = ["⏤͟͞ू⃪፝͜⁞⟡『 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-®𝐂𝐇𝐀𝐍𝐍𝐄𝐋』࿐⟡", "⟡『 𝙲𝙰𝙽𝙰𝙻 𝙾𝙵𝙸𝙲𝙸𝙰𝙻: 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐂𝐇𝐀𝐍𝐍𝐄𝐋』⟡"]
+global.canalNombreM = ["⏤͟͞ू⃪፝͜⁞⟡『 MITSURY-®CHANNEL』࿐⟡", "⟡『 𝙲𝙰𝙽𝙰𝙻 𝙾𝙵𝙸𝙲𝙸𝙰𝙻: MITSURY-CHANNEL』⟡"]
 global.channelRD = await getRandomChannel()
 
 //fechas
