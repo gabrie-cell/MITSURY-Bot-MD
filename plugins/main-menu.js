@@ -8,7 +8,7 @@ import { getDevice } from '@whiskeysockets/baileys'
 let handler = async (m, { conn, usedPrefix, __dirname }) => {
   const delay = ms => new Promise(res => setTimeout(res, ms))
 
-  const imgPath = join(__dirname, '../media/picture.png')
+  const imgPath = join(__dirname, '../src/catalogo.jpg')
   let thumbnail = null
   if (fs.existsSync(imgPath)) {
     try {
