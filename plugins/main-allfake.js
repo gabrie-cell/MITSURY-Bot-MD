@@ -54,7 +54,7 @@ global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/04244144821'
 global.namechannel = '🌼MITSURY-CHANNEL🎍'
 global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: 🍁MITSURY🍁'
-global.namegrupo = '࿐ 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐌𝐃 ⟦ 𝘽𝙤𝙩 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 ⟧🏴‍🎍'
+global.namegrupo = '࿐ 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐌𝐃 ⟦ 𝘽𝙤𝙩 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 ⟧🎍'
 global.namecomu = '⚡ᴍᴏɴᴋᴇʏ.ᴅ.ʟᴜꜰꜰʏ⚡'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
