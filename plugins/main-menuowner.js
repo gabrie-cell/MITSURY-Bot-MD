@@ -102,9 +102,9 @@ await conn.sendMessage(m.chat, {
 text: owner,
 contextInfo: {
 externalAdReply: {
-title: '🏴‍☠️ Panel de Control del Rey de los Piratas 🏴‍☠️',
-body: 'Gomu Gomu no... ¡Owner!',
-thumbnailUrl: 'https://files.catbox.moe/k3x0v6.jpg', // URL de la imagen que enviaste
+title: '🎋 Panel de Control del owner de mitsuri🎋',
+body: 'senpai senpaino... ¡Owner!',
+thumbnailUrl:'https://files.catbox.moe/l62rt5.jpg', // URL de la imagen que enviaste
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true
