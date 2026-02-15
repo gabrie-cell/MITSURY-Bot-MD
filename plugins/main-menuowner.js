@@ -3,7 +3,7 @@ import moment from 'moment-timezone';
 let handler = async (m, { conn, args }) => {
 let owner = `
 🏴‍☠️ ¡Kaizoku ou ni ore wa naru!
-һ᥆ᥣᥲ! s᥆ᥡ *${botname}* y seré el Rey de los piratas 🍖
+һ᥆ᥣᥲ! s᥆ᥡ *${botname}* y seré tu guía espiritual
 
 » ⚓ \`PANEL DE COMANDOS (MODS)\` ⚓
 
