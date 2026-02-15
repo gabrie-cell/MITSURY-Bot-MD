@@ -40,20 +40,20 @@ global.baileys = 'V 6.7.16'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.nameqr = 'monkey-D-luffy-MD'
-global.namebot = '☠️ ＭＯＮＫＥＹ Ｄ ＬＵＦＦＹ - ＭＤ 🏴‍☠️'
+global.namebot = '꧂ ＭＩＴＳＵＲＹ-ＭＤ꧂'
 global.LuffySessions = 'LuffySessions'
 global.jadi = 'LuffyJadiBots' 
 global.LuffyJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🏴‍☠️ ＭＯＮＫＥＹ Ｄ ＬＵＦＦＹ ☠️'
-global.botname = '☠️⃟⋆≛⃝ ＭＯＮＫＥＹ Ｄ ＬＵＦＦＹ - ＭＤ 🏴‍☠️'
-global.wm = '‧˚꒰🏴‍☠️꒱ ፝͜⁞ M͢ᴏɴᴋᴇʏ D L͢ᴜғғʏ-𝘉𝘰𝘵-𝑴𝑫✰⃔⃝'
-global.author = 'Made By ɴ͡ᴇ͜ɴᴇ❀᭄☂️' // Nombre del creador cambiado
-global.dev = '⌬ Modified by: ɴ͡ᴇ͜ɴᴇ❀᭄☂️ '
-global.textbot = '⏤͟͞ू⃪ ＭＯＮＫＥＹ Ｄ ＬＵＦＦＹ - ＭＤ 🏴‍☠️ • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ɴ͡ᴇ͜ɴᴇ❀᭄☂️'
-global.etiqueta = 'ˑ 𓈒 𐔌 ɴ͡ᴇ͜ɴᴇ❀᭄☂️ ͡꒱ ۫' // Etiqueta cambiada
+global.packname = '𖧷 𝙈𝙄𝙏𝙎𝙐𝙍𝙔-𝙈𝘿'
+global.botname = '🎍⋆≛ 𝙈𝙄𝙏𝙎𝙐𝙍𝙔-𝙈𝘿 🎍'
+global.wm = '‧˚꒰🍃꒱ ፝͜⁞ 𝙈𝙄𝙏𝙎𝙐𝙍𝙔-𝙈𝘿✰⃔⃝'
+global.author = 'Made By 𝓰𝓪𝓫𝔁𝔃❀᭄☂️' // Nombre del creador cambiado
+global.dev = '⌬ Modified by: 𝖌𝖆𝖇𝖝𝖟❀᭄☂️ '
+global.textbot = '⏤͟͞ू⃪ ️ⓂⒾⓉⓈⓊⓇⓎ-️ⓂⒹ 🌼 • 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 𝗴𝗮𝗯𝘅𝘇❀᭄☂️'
+global.etiqueta = 'ˑ 𓈒 𐔌 𝗴𝗮𝗯𝘅𝘇❀᭄☂️ ͡꒱ ۫' // Etiqueta cambiada
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
