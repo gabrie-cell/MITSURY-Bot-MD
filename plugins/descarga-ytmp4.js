@@ -2,13 +2,13 @@ import fetch from 'node-fetch';
 
 // --- Constantes y Configuración ---
 const CAUSA_API_KEY = 'causa-f8289f3a4ffa44bb'; // Tu API Key de Causa
-const newsletterJid = '120363447935700207@newsletter'; 
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 🏴‍☠️MONKEY • D • L U F F Y🏴‍☠️ 』࿐⟡';
+const newsletterJid = '120363424677971125@newsletter'; 
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 🎍MITSURY 』࿐⟡';
 
 var handler = async (m, { conn, args, usedPrefix, command }) => {
-  const emoji = '🏴‍☠️';
+  const emoji = '🎍';
   const namebotLuffy = 'Sombrero de Paja Bot';
-  const devLuffy = '¡Por el Rey de los Piratas!';
+  const devLuffy = '¡Por mitsury uwu!';
 
   const contextInfo = {
     mentionedJid: [m.sender],
