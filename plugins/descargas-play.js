@@ -2,8 +2,8 @@ import fetch from "node-fetch";
 import yts from "yt-search";
 
 const CAUSA_API_KEY = 'causa-f8289f3a4ffa44bb';
-const newsletterJid = '120363420846835529@newsletter';
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐌ᴏ𝐧ᴋ𝐞y 𝐃 𝐁ᴏᴛ';
+const newsletterJid = '120363424677971125@newsletter';
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝙼𝙸𝚃𝚂𝚄𝚁𝚈-𝙲𝙷𝙰𝙽𝙽𝙴𝙻';
 
 const handler = async (m, { conn, args, usedPrefix, command }) => {
   const name = conn.getName(m.sender);
@@ -15,7 +15,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
     forwardingScore: 999,
     forwardedNewsletterMessageInfo: { newsletterJid, newsletterName, serverMessageId: -1 },
     externalAdReply: {
-      title: '¡El Rey de los Piratas te trae música! 🎶',
+      title: '¡𝚜𝚎𝚖𝚙𝚊𝚒 𝚊𝚚𝚞𝚒́ 𝚎𝚜𝚝𝚊! 🎶',
       body: `¡Vamos a buscar eso, ${name}!`,
       thumbnailUrl: 'https://telegra.ph/file/0c91039864d4b8f5d07f3.jpg', // Ajusta esto
       sourceUrl: 'https://github.com', // Ajusta esto
@@ -80,7 +80,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
     if (!video) return conn.reply(m.chat, `😵 No encontré nada con: "${queryOrUrl}"`, m);
 
     const caption = `
-╭───🍖 *¡YOSHI! ${name}* ───
+╭───🍖 *¡𝚂𝙴𝙼𝙿𝙰𝙸𝙸! ${name}* ───
 │🍓 *Título:* ${video.title}
 │⏱️ *Duración:* ${video.timestamp}
 │👁️ *Vistas:* ${video.views.toLocaleString()}
